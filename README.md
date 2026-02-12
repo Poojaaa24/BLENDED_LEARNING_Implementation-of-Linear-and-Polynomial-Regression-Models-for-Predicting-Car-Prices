@@ -83,7 +83,8 @@ plt.show
 ## Output:
 <img width="1319" height="568" alt="Screenshot 2026-02-12 101247" src="https://github.com/user-attachments/assets/b4d1c738-a159-45ee-811c-7500fa3e4017" />
 <img width="1337" height="587" alt="Screenshot 2026-02-12 101314" src="https://github.com/user-attachments/assets/d470a9b6-57d8-43e6-8223-278efa799668" />
-![Uploading Screenshot 2026-02-12 101328.png…]()
+
+<img width="1332" height="875" alt="Screenshot 2026-02-12 101328" src="https://github.com/user-attachments/assets/801d227d-fed4-4ab7-8b1a-15d7dd940c11" />
 
 ![simple linear regression model for predicting the marks scored](sam.png)
 
