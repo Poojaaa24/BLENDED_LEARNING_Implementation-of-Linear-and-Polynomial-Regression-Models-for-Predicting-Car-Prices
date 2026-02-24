@@ -86,7 +86,7 @@ plt.show
 
 <img width="1332" height="875" alt="Screenshot 2026-02-12 101328" src="https://github.com/user-attachments/assets/801d227d-fed4-4ab7-8b1a-15d7dd940c11" />
 
-![simple linear regression model for predicting the marks scored](sam.png)
+Simple linear and polynomial regression models for predicting car prices.
 
 
 ## Result:
