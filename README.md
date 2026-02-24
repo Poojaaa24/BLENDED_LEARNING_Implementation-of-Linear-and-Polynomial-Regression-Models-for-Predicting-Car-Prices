@@ -9,10 +9,10 @@ To write a program to predict car prices using Linear Regression and Polynomial 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import Libraries & Load Dataset
+2. Divide the dataset into training and testing sets.
+3. Select a suitable ML model, train it on the training data, and make predictions.
+4. Assess model performance using metrics and interpret the results.
 
 ## Program:
 ```
